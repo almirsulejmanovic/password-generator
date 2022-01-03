@@ -1,0 +1,5 @@
+export const numbers = '0123456789'
+export const upperCaseLetters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
+export const lowerCaseLetters = 'abcdefghijklmnopqrstuvwxyz'
+export const symbols = '!"#$%&()*+,-./:;<=>?@[]^_`{|}~'
+export const nonASCII = '½¼¾§é÷¡¢£¥±µ¶¿'
